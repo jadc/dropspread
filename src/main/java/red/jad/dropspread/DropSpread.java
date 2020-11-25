@@ -17,6 +17,6 @@ public class DropSpread implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LogManager.getLogger("dropspread").info("DropSpread initialized");
+		LogManager.getLogger("dropspread").info("Drop Spread initialized");
 	}
 }
